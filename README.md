@@ -7,6 +7,6 @@ Name: Rafi Ahmed
 I:D:-UG02-47-18-030
 
 
-email:-rafiahmed362@gmail.com
+email:- rafiahmed362@gmail.com
 
 Batch:-  47
